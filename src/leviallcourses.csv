@@ -1,0 +1,372 @@
+SM,DEPOT,ID,DESC,REQS-4,REQS-3,REQS-2,REQS-1,CREDS,YRS
+FY,Fine Arts,AR5410,Photography,VPA PA,VPA PA,VPA PA,VPA PA,5,1
+FY,Fine Arts,AR6411,Ceramics & Sculpture I,VPA,VPA,VPA,VPA,5,1
+FY,Fine Arts,AR6412,Studio Art I,VPA,VPA,VPA,VPA,5,1
+FY,Fine Arts,AR6700,AP Art History,VPA,VPA,VPA,VPA,5,1
+FY,Fine Arts,AR6702,AP Drawing,VPA,VPA,VPA,VPA,5,1
+FY,Fine Arts,AR6703,AP 2D Art & Design,PA,PA,PA,VPA PA,5,1
+FY,Fine Arts,AR6704,AP 3D Art & Design,PA,PA,PA,VPA PA,5,1
+FY,Fine Arts,AR6705,Honors Advanced Ceramics & Sculpture II,VPA,VPA,VPA,VPA,5,1
+FY,Fine Arts,AR6706,Honors Advanced Studio Art II,VPA,VPA,VPA,VPA,5,1
+FY,Fine Arts,AR6707,Honors Advanced Photography,ELECT,ELECT,VPA PA,VPA PA,5,1
+FY,Fine Arts,AR8190,LLD Arts & Crafts,VPA,VPA,VPA,VPA,5,1
+S1,Business,BU2401,Financial Literacy,PFL,PFL,PFL,PFL,5,0.5
+S1,Business,BU2402,Blended Financial Literacy,PFL,PFL,PFL,PFL,5,0.5
+S1,Business,BU2410,Financial Investment,ELECT,ELECT,ELECT,ELECT,5,0.5
+FY,Business,BU2420,Accounting,ELECT,ELECT,ELECT,ELECT,5,1
+S1,Business,BU3403,Principles of Business,PA,PA,PA,PA,5,0.5
+S2,Business,BU3404,Marketing,ELECT,ELECT,ELECT,ELECT,5,0.5
+FY,Business,BU3405,Entrepreneurship,PA,PA,PA,PA,5,1
+FY,Business,BU3415,Entrepreneurship & Bus Leadership,ELECT,ELECT,ELECT,ELECT,5,1
+S1,Business,BU3420,Management & Leadership,ELECT,ELECT,ELECT,ELECT,5,0.5
+FY,Business,BU3610,Honors Marketing & Merchandising,ELECT,ELECT,ELECT,ELECT,5,1
+FY,Business,BU8110,LLD Elements of Financial Literacy,PFL,PFL,PFL,PFL,5,1
+SU,Business,BU8833,Online Financial Literacy - Summer,PFL,PFL,PFL,PFL,5,0.5
+FY,Special Ed,CC1210,PARCC Support 9,ELECT,ELECT,ELECT,ELECT,5,1
+FY,Special Ed,CC1240,PARCC Support 12,ELECT,ELECT,ELECT,ELECT,5,1
+FY,Special Ed,CC3401,Physics/Technology,ELECT,ELECT,ELECT,ELECT,5,1
+FY,Special Ed,CC5401,American Studies,ENG HIST,ENG HIST,ENG HIST,ENG HIST,10,1
+FY,Special Ed,CC5600,Honors American Studies,ENG HIST,ENG HIST,ENG HIST,ENG HIST,10,1
+FY,Special Ed,CC8143,Study Skills 9-12,ELECT,ELECT,ELECT,ELECT,5,1
+FY,Special Ed,CC8144,Gen Ed Study Skills 9/10/11/12,ELECT,ELECT,ELECT,ELECT,5,1
+FY,Special Ed,CC8145,RISE Study Skills,ELECT,ELECT,ELECT,ELECT,5,1
+FY,Special Ed,CC8900,Milestones,ELECT,ELECT,ELECT,ELECT,5,1
+FY,English,EN1201,English as a Second Language,ENG,ENG,ENG,ENG,5,1
+FY,English,EN1400,English I,ENG,ENG,ENG,ENG,5,1
+FY,English,EN1490,RISE English I,ENG,ENG,ENG,ENG,5,1
+FY,English,EN1590,English I,ENG,ENG,ENG,ENG,5,1
+FY,English,EN1600,Honors English I,ENG,ENG,ENG,ENG,5,1
+FY,English,EN2400,English II,ENG,ENG,ENG,ENG,5,1
+FY,English,EN2490,RISE English II,ENG,ENG,ENG,ENG,5,1
+FY,English,EN2590,English II,ENG,ENG,ENG,ENG,5,1
+FY,English,EN2600,Honors English II,ENG,ENG,ENG,ENG,5,1
+FY,English,EN3310,English III Classic & Contemporary Lit,ENG,ENG,ENG,ENG,5,1
+FY,English,EN3400,English III,ENG,ENG,ENG,ENG,5,1
+FY,English,EN3490,RISE English III,ENG,ENG,ENG,ENG,5,1
+FY,English,EN3510,English III Classic & Contemporary Lit,ENG,ENG,ENG,ENG,5,1
+FY,English,EN3520,English III: Reading Science Fiction Literature,ENG,ENG,ENG,ENG,5,1
+FY,English,EN3530,English III: Language_ Myth & Culture,ENG,ENG,ENG,ENG,5,1
+FY,English,EN3590,English III,ENG,ENG,ENG,ENG,5,1
+FY,English,EN3600,Honors English III,ENG,ENG,ENG,ENG,5,1
+FY,English,EN3610,Honors English III Classic & Contemporary Lit,ENG,ENG,ENG,ENG,5,1
+FY,English,EN4190,English 4,ENG,ENG,ENG,ENG,5,1
+FY,English,EN4310,English IV: World Literature & Culture,ENG,ENG,ENG,ENG,5,1
+FY,English,EN4400,English IV,ENG,ENG,ENG,ENG,5,1
+FY,English,EN4490,RISE English IV,ENG,ENG,ENG,ENG,5,1
+FY,English,EN4590,English IV,ENG,ENG,ENG,ENG,5,1
+FY,English,EN4600,Honors English IV,ENG,ENG,ENG,ENG,5,1
+FY,English,EN4610,Honors English IV: World Literature & Culture,ENG,ENG,ENG,ENG,5,1
+FY,English,EN4700,AP English Language and Composition,ENG,ENG,ENG,ENG,5,1
+FY,English,EN4701,AP English Literature and Composition,ENG,ENG,ENG,ENG,5,1
+FY,English,EN4710,AP Research,ENG,ENG,ENG,ENG,5,1
+FY,English,EN5310,Philosophy & Literature,ENG,ENG,ENG,ENG,5,1
+FY,English,EN5401,Creative Writing,PA,PA,PA,PA,5,1
+FY,English,EN5402,21st Century Journalism & Media,PA,PA,PA,PA,5,1
+FY,English,EN5403,Honors Advanced 21st Century Journalism & Media,PA,PA,PA,PA,5,1
+S1,English,EN5406,Public Speaking,PA,PA,PA,PA,2.5,0.5
+FY,English,EN5407,Film and Literature,PA,PA,PA,PA,5,1
+FY,English,EN5413,Sports and Literature,ENG,ENG,ENG,ENG,5,1
+FY,English,EN5415,Literature of the Holocaust,ENG,ENG,ENG,ENG,5,1
+FY,English,EN5417,Language Myth and Human Culture,ENG,ENG,ENG,ENG,5,1
+FY,English,EN5418,Honors Advanced 21st Century Journalism & Media II,PA,PA,PA,PA,5,1
+FY,English,EN5420,English III: Reading Science Fiction Literature,ENG,ENG,ENG,ENG,5,1
+FY,English,EN5513,Sports and Literature,ENG,ENG,ENG,ENG,5,1
+FY,English,EN5517,Language_ Myth and Human Culture,ENG,ENG,ENG,ENG,5,1
+FY,English,EN5600,Honors Language Myth & Culture,ENG,ENG,ENG,ENG,5,1
+FY,English,EN5601,Honors Literature of the Holocaust,ENG,ENG,ENG,ENG,5,1
+FY,English,EN5610,Honors English III: Reading Science Fiction Lit,ENG,ENG,ENG,ENG,5,1
+FY,English,EN5620,Honors Philosophy & Literature,ENG,ENG,ENG,ENG,5,1
+FY,English,EN5630,Honors Drama & Shakespeare,ENG,ENG,ENG,ENG,5,1
+FY,English,EN5660,Honors Advanced Media Production,PA,PA,PA,PA,5,1
+FY,English,EN5823,AP Seminar,SOPH ENG,SOPH ENG,SOPH ENG,SOPH ENG,5,1
+FY,English,EN8110,LLD Modified English 1,ENG,ENG,ENG,ENG,5,1
+FY,English,EN8120,LLD Modified English 1 Level 1,ENG,ENG,ENG,ENG,5,1
+FY,English,EN8141,English I,ENG,ENG,ENG,ENG,5,1
+FY,English,EN8210,LLD Modified English 2,ENG,ENG,ENG,ENG,5,1
+FY,English,EN8240,English II,ENG,ENG,ENG,ENG,5,1
+FY,English,EN8310,LLD Modified English 3,ENG,ENG,ENG,ENG,5,1
+FY,English,EN8340,English III,ENG,ENG,ENG,ENG,5,1
+FY,English,EN8350,English III Classic & Contemporary Lit,ENG,ENG,ENG,ENG,5,1
+FY,English,EN8410,LLD Modified English 4,ENG,ENG,ENG,ENG,5,1
+FY,English,EN8440,English IV,ENG,ENG,ENG,ENG,5,1
+FY,English,EN8450,English IV: World Literature & Culture,ENG,ENG,ENG,ENG,5,1
+FY,Family and Consumer Sciences,FA1401,Clothing Construction,PA,PA,PA,PA,5,1
+FY,Family and Consumer Sciences,FA1420,Advanced Clothing,PA,PA,PA,PA,5,1
+FY,Family and Consumer Sciences,FA2410,Early Childhood & Family Education I,PA,PA,PA,PA,5,1
+FY,Family and Consumer Sciences,FA2420,Early Childhood & Family Education II,PA,PA,PA,PA,5,1
+FY,Family and Consumer Sciences,FA2430,Early Childhood & Family Education III,PA,PA,PA,PA,5,1
+FY,Family and Consumer Sciences,FA3410,Fashion Design,PA,PA,PA,PA,5,1
+FY,Family and Consumer Sciences,FA3420,Advanced Fashion Design,PA,PA,PA,PA,5,1
+FY,Family and Consumer Sciences,FA4410,Culinary Arts I,PA,PA,PA,PA,5,1
+FY,Family and Consumer Sciences,FA4420,Culinary Arts II,PA,PA,PA,PA,5,1
+S2,Family and Consumer Sciences,FA5401,21st Century Life Skills,PA,PA,PA,PA,5,0.5
+FY,Family and Consumer Sciences,FA5410,Interior Design,PA,PA,PA,PA,5,1
+FY,Family and Consumer Sciences,FA6301,Honors Teacher Cadet Program,PA,PA,PA,PA,15,1
+FY,Family and Consumer Sciences,FA8110,LLD Daily Living Skills 1,PA,PA,PA,PA,5,1
+FY,Family and Consumer Sciences,FA8115,LLD Daily Living Skills Level 1,PA,PA,PA,PA,5,1
+FY,Family and Consumer Sciences,FA8120,LLD Daily Living Skills 2,PA,PA,PA,PA,5,1
+FY,Family and Consumer Sciences,FA8130,LLD Daily Living Skills 3,PA,PA,PA,PA,5,1
+FY,Family and Consumer Sciences,FA8140,Career Exploration,PA,PA,PA,PA,5,1
+FY,Family and Consumer Sciences,FA8141,Career Exploration,PA,PA,PA,PA,5,1
+FY,Family and Consumer Sciences,FA8190,Foods and Nutrition 1,PA,PA,PA,PA,5,1
+FY,Family and Consumer Sciences,FA8191,LLD Daily Food Preparation & Nutritional Skills 1,PA,PA,PA,PA,5,1
+FY,Family and Consumer Sciences,FA8192,LLD Daily Food Preparation & Nutritional Skills 2,PA,PA,PA,PA,5,1
+FY,Family and Consumer Sciences,FA8193,LLD Daily Food Preparation & Nutritional Skills 3,PA,PA,PA,PA,5,1
+FY,Family and Consumer Sciences,FA8194,LLD Daily Food Preparation & Nutritional Skills 4,PA,PA,PA,PA,5,1
+FY,Math,MA2300,Algebra I,MATH,MATH,MATH,MATH,5,1
+FY,Math,MA2400,Algebra I Enhanced,MATH,MATH,MATH,MATH,5,1
+FY,Math,MA2500,Algebra I,MATH,MATH,MATH,MATH,5,1
+FY,Math,MA2600,Algebra I,MATH,MATH,MATH,MATH,5,1
+FY,Math,MA3300,Geometry,MATH,MATH,MATH,MATH,5,1
+FY,Math,MA3309,Geometry,MATH,MATH,MATH,MATH,5,1
+FY,Math,MA3400,Geometry Enhanced,MATH,MATH,MATH,MATH,5,1
+FY,Math,MA3409,Geometry Enhanced,MATH,MATH,MATH,MATH,5,1
+FY,Math,MA3500,Geometry,MATH,MATH,MATH,MATH,5,1
+FY,Math,MA3509,Geometry,MATH,MATH,MATH,MATH,5,1
+FY,Math,MA3600,Honors Geometry,MATH,MATH,MATH,MATH,5,1
+FY,Math,MA4300,Algebra II with Trigonometry,MATH,MATH,MATH,MATH,5,1
+FY,Math,MA4400,Algebra II with Trigonometry Enhanced,MATH,MATH,MATH,MATH,5,1
+FY,Math,MA4500,Algebra II with Trigonometry,MATH,MATH,MATH,MATH,5,1
+FY,Math,MA4600,Honors Algebra II with Trigonometry,MATH,MATH,MATH,MATH,5,1
+FY,Math,MA5400,Senior College Prep Math,MATH,MATH,MATH,MATH,5,1
+FY,Math,MA5401,Senior Math Elective,MATH,MATH,MATH,MATH,5,1
+FY,Math,MA6100,Mathematics Lab 9,MATH,MATH,MATH,MATH,5,1
+FY,Math,MA6106,Mathematics Lab 12,MATH,MATH,MATH,MATH,5,1
+FY,Math,MA6110,Mathematics Lab 9,MATH,MATH,MATH,MATH,5,1
+FY,Math,MA6111,Mathematics Lab 9,MATH,MATH,MATH,MATH,5,1
+FY,Math,MA6113,Mathematics Lab 12,MATH,MATH,MATH,MATH,5,1
+FY,Math,MA6400,Calculus,MATH,MATH,MATH,MATH,5,1
+FY,Math,MA6404,Honors Computer Science,PA,PA,PA,PA,5,1
+FY,Math,MA6406,Pre-Calculus,MATH,MATH,MATH,MATH,5,1
+S2,Math,MA6407,College Algebra,MATH,MATH,MATH,MATH,2.5,1
+S2,Math,MA6408,Discrete Math,MATH,MATH,MATH,MATH,2.5,1
+S1,Math,MA6409,Statistics I,MATH,MATH,MATH,MATH,2.5,1
+S2,Math,MA6410,Statistics II,MATH,MATH,MATH,MATH,2.5,1
+FY,Math,MA6418,Discrete Math,MATH,MATH,MATH,MATH,5,1
+FY,Math,MA6444,Honors Computer Science,PA,PA,PA,PA,5,1
+FY,Math,MA6603,AP Pre-Calculus,MATH,MATH,MATH,MATH,5,1
+FY,Math,MA6604,Advanced Topics in Calculus (H),MATH,MATH,MATH,MATH,5,1
+FY,Math,MA6700,AP Calculus AB,MATH,MATH,MATH,MATH,5,1
+FY,Math,MA6701,AP Calculus BC,MATH,MATH,MATH,MATH,5,1
+FY,Math,MA6703,AP Statistics,MATH,MATH,MATH,MATH,5,1
+FY,Math,MA6704,AP Computer Science A,PA,PA,PA,PA,5,1
+FY,Math,MA6705,Intro to Comp Sci & App Development,PA,PA,PA,PA,5,1
+FY,Math,MA6706,Advanced Topics in Computer Science (H),PA,PA,PA,PA,5,1
+FY,Math,MA6800,Calculus,MATH,MATH,MATH,MATH,5,1
+FY,Math,MA6825,Real Analysis-Stanford,MATH,MATH,MATH,MATH,5,1
+FY,Math,MA6830,Complex Analysis-Stanford,MATH,MATH,MATH,MATH,5,1
+FY,Math,MA6840,Differential Equations - Stanford,MATH,MATH,MATH,MATH,5,1
+FY,Math,MA8140,Discrete Math,MATH,MATH,MATH,MATH,5,1
+FY,Math,MA8195,RISE Statistics 2,MATH,MATH,MATH,MATH,5,1
+FY,Math,MA8196,RISE College Algebra,MATH,MATH,MATH,MATH,5,1
+FY,Math,MA8197,RISE Geometry,MATH,MATH,MATH,MATH,5,1
+FY,Math,MA8198,RISE Algebra II with Trigonometry,MATH,MATH,MATH,MATH,5,1
+FY,Math,MA8199,RISE Statistics I,MATH,MATH,MATH,MATH,5,1
+FY,Math,MA8210,Algebra I,MATH,MATH,MATH,MATH,5,1
+FY,Math,MA8309,Geometry,MATH,MATH,MATH,MATH,5,1
+FY,Math,MA8310,Geometry,MATH,MATH,MATH,MATH,5,1
+FY,Math,MA8410,Algebra II,MATH,MATH,MATH,MATH,5,1
+FY,Math,MA8911,LLD Modified Mathematics 1,MATH,MATH,MATH,MATH,5,1
+FY,Math,MA8912,LLD Modified Mathematics 2,MATH,MATH,MATH,MATH,5,1
+FY,Math,MA8913,LLD Modified Mathematics 3,MATH,MATH,MATH,MATH,5,1
+FY,Math,MA8914,LLD Modified Mathematics 4,MATH,MATH,MATH,MATH,5,1
+FY,Math,MA8915,Modified Math 1/2,MATH,MATH,MATH,MATH,5,1
+FY,Math,MA8916,Modified Math 3/4,MATH,MATH,MATH,MATH,5,1
+FY,Math,MA8921,LLD Modified Math 1 Level 1,MATH,MATH,MATH,MATH,5,1
+FY,Music,MU1401,Concert Band,VPA PA,VPA PA,VPA PA,VPA PA,5,1
+FY,Music,MU1402,Concert Band,VPA PA,VPA PA,VPA PA,VPA PA,5,1
+FY,Music,MU1407,Zero Period Concert Band,VPA PA,VPA PA,VPA PA,VPA PA,5,1
+FY,Music,MU2400,Choir/Lunch,VPA PA,VPA PA,VPA PA,VPA PA,2.5,0.5
+FY,Music,MU2403,Chamber Choir,VPA PA,VPA PA,VPA PA,VPA PA,5,1
+FY,Music,MU2404,Concert Choir,VPA PA,VPA PA,VPA PA,VPA PA,5,1
+FY,Music,MU2405,Chamber Choir,VPA PA,VPA PA,VPA PA,VPA PA,5,1
+FY,Music,MU2406,Concert Choir,VPA PA,VPA PA,VPA PA,VPA PA,5,1
+FY,Music,MU2409,Zero Period Choir,VPA PA,VPA PA,VPA PA,VPA PA,5,1
+FY,Music,MU3410,Guitar I,VPA PA,VPA PA,VPA PA,VPA PA,5,1
+FY,Music,MU3411,Music Theory I,VPA PA,VPA PA,VPA PA,VPA PA,5,1
+FY,Music,MU3412,History of American Popular Music,VPA PA,VPA PA,VPA PA,VPA PA,5,1
+FY,Music,MU3413,Introduction to Music Through Guitar,VPA,VPA,VPA,VPA,5,1
+FY,Music,MU3414,String Orchestra,VPA PA,VPA PA,VPA PA,VPA PA,5,1
+FY,Music,MU3416,Music Technology,VPA PA,VPA PA,VPA PA,VPA PA,5,1
+FY,Music,MU3440,Keyboarding,VPA PA,VPA PA,VPA PA,VPA PA,5,1
+FY,Music,MU3450,Modern Rock Band,VPA PA,VPA PA,VPA PA,VPA PA,5,1
+FY,Music,MU3460,American Popular Music,VPA PA,VPA PA,VPA PA,VPA PA,5,1
+FY,Music,MU3710,AP Music Theory,VPA PA,VPA PA,VPA PA,VPA PA,5,1
+FY,NG,NG1000,PE 10 for Labs,PE,PE,PE,PE,4,1
+FY,NG,NG1001,PE 11 for Labs,PE,PE,PE,PE,4,1
+FY,NG,NG1002,PE 12 for Labs,PE,PE,PE,PE,4,1
+FY,Phys. Ed. / Health,PE1040,PE/Health 9,PE,PE,PE,PE,5,1
+FY,Phys. Ed. / Health,PE1050,Physical Education/Health 9,PE,PE,PE,PE,5,1
+FY,Phys. Ed. / Health,PE2040,Physical Education/Driver Education 10,PE,PE,PE,PE,5,1
+FY,Phys. Ed. / Health,PE2050,Physical Education/Driver Ed 10,PE,PE,PE,PE,5,1
+FY,Phys. Ed. / Health,PE3040,Physical Education/Health 11,PE,PE,PE,PE,5,1
+FY,Phys. Ed. / Health,PE3050,Physical Education/Health 11,PE,PE,PE,PE,5,1
+FY,Phys. Ed. / Health,PE3060,Physical Education/Health 11,PE,PE,PE,PE,5,1
+FY,Phys. Ed. / Health,PE4040,Physical Education/Health 12,PE,PE,PE,PE,5,1
+FY,Phys. Ed. / Health,PE4050,Physical Education/Health 12,PE,PE,PE,PE,5,1
+FY,Phys. Ed. / Health,PE4051,Zero Period Physical Education/Health 12,PE,PE,PE,PE,5,1
+FY,Phys. Ed. / Health,PE4052,Physical Education 12,PE,PE,PE,PE,5,1
+FY,Phys. Ed. / Health,PE4060,Physical Education/Health 12,PE,PE,PE,PE,5,1
+FY,Phys. Ed. / Health,PE5100,Physical Education: Unified,PE,PE,PE,PE,5,1
+FY,Phys. Ed. / Health,PE8141,LLD Phys Ed/Health 9,PE,PE,PE,PE,5,1
+FY,Phys. Ed. / Health,PE8142,LLD Phys Ed/Drivers Education 10,PE,PE,PE,PE,5,1
+FY,Phys. Ed. / Health,PE8143,LLD Phys Ed/Health 11,PE,PE,PE,PE,5,1
+FY,Phys. Ed. / Health,PE8144,LLD Phys Ed/Health 12,PE,PE,PE,PE,5,1
+FY,Phys. Ed. / Health,PE8198,RISE Physical Education/Health 12,PE,PE,PE,PE,5,1
+FY,Science,SC1400,Biology,SCI,SCI,SCI,SCI,6,1
+FY,Science,SC1401,Environmental Biology,SCI,SCI,SCI,SCI,6,1
+FY,Science,SC1501,Environmental Biology,SCI,SCI,SCI,SCI,6,1
+FY,Science,SC1503,Biological Science (CP),SCI,SCI,SCI,SCI,6,1
+FY,Science,SC1600,Honors Biology,SCI,SCI,SCI,SCI,6,1
+FY,Science,SC1700,AP Biology,ELECT,ELECT,ELECT,ELECT,6,1
+FY,Science,SC1800,Biological Science (CP),SCI,SCI,SCI,SCI,6,1
+FY,Science,SC2300,Chemistry in the Community,SCI,SCI,SCI,SCI,6,1
+FY,Science,SC2400,Chemistry,SCI,SCI,SCI,SCI,6,1
+FY,Science,SC2500,Chemistry in the Community,SCI,SCI,SCI,SCI,6,1
+FY,Science,SC2600,Honors Chemistry,SCI,SCI,SCI,SCI,6,1
+FY,Science,SC2700,AP Chemistry,ELECT,ELECT,ELECT,ELECT,6,1
+FY,Science,SC3301,Conceptual Physics,SCI,SCI,SCI,SCI,6,1
+FY,Science,SC3400,Physics,SCI,SCI,SCI,SCI,6,1
+FY,Science,SC3501,Conceptual Physics,SCI,SCI,SCI,SCI,6,1
+FY,Science,SC3600,Honors Physics,SCI,SCI,SCI,SCI,6,1
+FY,Science,SC3700,AP Physics C,ELECT,ELECT,ELECT,ELECT,6,1
+FY,Science,SC3701,AP Physics I,SCI,SCI,SCI,SCI,6,1
+FY,Science,SC3702,AP Physics 2,ELECT,ELECT,ELECT,ELECT,6,1
+S1,Science,SC4400,Earth's Natural Disasters,ELECT,ELECT,ELECT,ELECT,2.5,1
+S2,Science,SC4402,Astronomy,ELECT,ELECT,ELECT,ELECT,2.5,1
+FY,Science,SC4403,Anatomy and Physiology,ELECT,ELECT,ELECT,ELECT,5,1
+FY,Science,SC4404,Science Ethics Technology & Society,ELECT,ELECT,ELECT,ELECT,6,1
+FY,Science,SC4405,Environmental Studies,ELECT,ELECT,ELECT,ELECT,6,1
+FY,Science,SC4500,Introduction to Anatomy & Physiology,ELECT,ELECT,ELECT,ELECT,5,1
+FY,Science,SC4501,Honors Anatomy & Physiology,ELECT,ELECT,ELECT,ELECT,6,1
+FY,Science,SC4600,Honors Forensics - Syracuse University,ELECT,ELECT,ELECT,ELECT,5,1
+FY,Science,SC4601,Honors Research in Molecular Genetics I,ELECT,ELECT,ELECT,ELECT,6,1
+FY,Science,SC4602,Honors Research in Molecular Genetics II,ELECT,ELECT,ELECT,ELECT,6,1
+FY,Science,SC4603,Honors Research in Molecular Genetics III,ELECT,ELECT,ELECT,ELECT,6,1
+FY,Science,SC4604,Honors Anatomy & Physiology,ELECT,ELECT,ELECT,ELECT,6,1
+FY,Science,SC4700,AP Environmental Science,ELECT,ELECT,ELECT,ELECT,6,1
+FY,Science,SC8112,LLD Biological Science,ELECT,ELECT,ELECT,ELECT,6,1
+FY,Science,SC8113,LLD Elements of Chemistry in the Community,ELECT,ELECT,ELECT,ELECT,6,1
+FY,Science,SC8196,RISE Chemistry,SCI,SCI,SCI,SCI,6,1
+FY,Science,SC8197,RISE Physics,SCI,SCI,SCI,SCI,6,1
+FY,Science,SC8210,Chemistry in the Community,SCI,SCI,SCI,SCI,6,1
+FY,Science,SC8310,Conceptual Physics,SCI,SCI,SCI,SCI,6,1
+FY,Science,SC8410,LLD Elements of Conceptual Physics,SCI,SCI,SCI,SCI,6,1
+FY,Science,SC8420,LLD Elements of Conceptual Physics Level 1,SCI,SCI,SCI,SCI,6,1
+FY,Science,SC8512,Environmental Biology,SCI,SCI,SCI,SCI,6,1
+FY,Science,SC8712,Biological Science (CP),SCI,SCI,SCI,SCI,6,1
+FY,Special Ed,SP1002,Satelite School AM,ELECT,ELECT,ELECT,ELECT,5,1
+FY,Special Ed,SP1003,Satellite School PM,ELECT,ELECT,ELECT,ELECT,5,1
+FY,Special Ed,SP1004,Satellite School Full Day,ELECT,ELECT,ELECT,ELECT,5,1
+FY,Special Ed,SP1005,Internship,PA,PA,PA,PA,15,1
+FY,Special Ed,SP1006,Internship,PA,PA,PA,PA,5,1
+FY,Special Ed,SP1009,Internship,PA,PA,PA,PA,5,1
+FY,Special Ed,SP1010,Internship,PA,PA,PA,PA,5,1
+FY,Special Ed,SP1011,Internship,PA,PA,PA,PA,5,1
+FY,Special Ed,SP1012,LLD Transition Education 1,ELECT,ELECT,ELECT,ELECT,5,1
+FY,Special Ed,SP1013,LLD Transition Education 2,ELECT,ELECT,ELECT,ELECT,5,1
+FY,Special Ed,SP1016,Satellite School AM,ELECT,ELECT,ELECT,ELECT,5,1
+FY,Special Ed,SP1020,LLD Transition Ed Lab,ELECT,ELECT,ELECT,ELECT,5,1
+FY,Special Ed,SP6100,Related Arts I,VPA,VPA,VPA,VPA,5,1
+FY,Social Studies,SS1100,RISE World History,HIST,HIST,HIST,HIST,5,1
+FY,Social Studies,SS1400,World History,HIST,HIST,HIST,HIST,5,1
+FY,Social Studies,SS1501,World History,HIST,HIST,HIST,HIST,5,1
+FY,Social Studies,SS1600,Honors World History,HIST,HIST,HIST,HIST,5,1
+FY,Social Studies,SS1700,AP World History,ELECT,ELECT,ELECT,ELECT,5,1
+FY,Social Studies,SS2100,RISE United States History I,ELECT,ELECT,ELECT,ELECT,5,1
+FY,Social Studies,SS2400,United States History I,HIST,HIST,HIST,HIST,5,1
+FY,Social Studies,SS2501,United States History I,HIST,HIST,HIST,HIST,5,1
+FY,Social Studies,SS2600,Honors United States History I,HIST,HIST,HIST,HIST,5,1
+FY,Social Studies,SS2700,AP US History I,HIST,HIST,HIST,HIST,5,1
+FY,Social Studies,SS3100,RISE United States History II,HIST,HIST,HIST,HIST,5,1
+FY,Social Studies,SS3400,United States History II,HIST,HIST,HIST,HIST,5,1
+FY,Social Studies,SS3501,United States History II,HIST,HIST,HIST,HIST,5,1
+FY,Social Studies,SS3600,Honors United States History II,HIST,HIST,HIST,HIST,5,1
+FY,Social Studies,SS3700,AP US History II,HIST,HIST,HIST,HIST,5,1
+FY,Social Studies,SS6400,Anthropology,ELECT,ELECT,ELECT,ELECT,5,1
+FY,Social Studies,SS6401,Constitutional Law,ELECT,ELECT,ELECT,ELECT,5,1
+FY,Social Studies,SS6402,Economics,ELECT,ELECT,ELECT,ELECT,5,1
+S2,Social Studies,SS6405,Sociology,ELECT,ELECT,ELECT,ELECT,5,1
+FY,Social Studies,SS6406,Crit. Analysis of History through Film,ELECT,ELECT,ELECT,ELECT,2.5,1
+FY,Social Studies,SS6407,Current World Problems,ELECT,ELECT,ELECT,ELECT,5,1
+S1,Social Studies,SS6410,Honors History of Sport in America,ELECT,ELECT,ELECT,ELECT,5,1
+S2,Social Studies,SS6601,Honors SUPA Public Affairs,ELECT,ELECT,ELECT,ELECT,2.5,1
+FY,Social Studies,SS6602,Honors Psychology - Ramapo College,ELECT,ELECT,ELECT,ELECT,5,1
+S2,Social Studies,SS6701,AP Economics,ELECT,ELECT,ELECT,ELECT,5,1
+S1,Social Studies,SS6702,AP Government & Politics,ELECT,ELECT,ELECT,ELECT,5,1
+FY,Social Studies,SS6891,US History: 1877 to Present,ELECT,ELECT,ELECT,ELECT,5,1
+FY,Social Studies,SS8111,LLD Themes in World History,HIST,HIST,HIST,HIST,5,1
+FY,Social Studies,SS8121,LLD Themes in World History Level 1,HIST,HIST,HIST,HIST,5,1
+FY,Social Studies,SS8140,College Prep World History,HIST,HIST,HIST,HIST,5,1
+FY,Social Studies,SS8211,LLD Themes in US History I,HIST,HIST,HIST,HIST,5,1
+FY,Social Studies,SS8241,College Prep United States History I,HIST,HIST,HIST,HIST,5,1
+FY,Social Studies,SS8311,LLD Themes in US History II,HIST,HIST,HIST,HIST,5,1
+FY,Social Studies,SS8341,College Prep United States History II,HIST,HIST,HIST,HIST,5,1
+FY,Social Studies,SS8640,Sociology,ELECT,ELECT,ELECT,ELECT,5,1
+FY,Social Studies,SS8641,Economics,ELECT,ELECT,ELECT,ELECT,5,1
+FY,Technology Education,TE1300,Video Production,PA,PA,PA,PA,5,1
+FY,Technology Education,TE1302,Advanced Video Production,PA,PA,PA,PA,5,1
+FY,Technology Education,TE1305,Architecture,PA,PA,PA,PA,5,1
+FY,Technology Education,TE1601,Honors Research in Innovation & Design,PA,PA,PA,PA,5,1
+FY,Technology Education,TE2301,Broadcast Television Production,PA,PA,PA,PA,5,1
+FY,Technology Education,TE2411,Graphic Design I,VPA PA,VPA PA,VPA PA,VPA PA,5,1
+FY,Technology Education,TE2421,Graphic Design II,VPA PA,VPA PA,VPA PA,VPA PA,5,1
+FY,Technology Education,TE3306,Robotics & Game Design,PA,PA,PA,PA,5,1
+FY,Technology Education,TE3610,Hon Engineering Dsgn I - Univ of Texas,PA,PA,PA,PA,5,1
+FY,Technology Education,TE3620,Hon Engineering Dsgn II,PA,PA,PA,PA,5,1
+FY,Technology Education,TE4301,Introduction to Innovation & Design,PA,PA,PA,PA,5,1
+FY,Technology Education,TE8000,Modified Video Production,PA,PA,PA,PA,5,1
+FY,Technology Education,TE8010,Modified Robotics & Game Design,PA,PA,PA,PA,5,1
+FY,Technology Education,TE8020,LLD Elements of Innovation and Design,PA,PA,PA,PA,5,1
+FY,World Language,WL1410,Spanish I,LANG,LANG,LANG,LANG,5,1
+FY,World Language,WL1420,Spanish II,LANG,LANG,LANG,LANG,5,1
+FY,World Language,WL1430,Spanish III,LANG,LANG,LANG,LANG,5,1
+FY,World Language,WL1440,Spanish IV,LANG,LANG,LANG,LANG,5,1
+FY,World Language,WL1450,Spanish V,LANG,LANG,LANG,LANG,5,1
+FY,World Language,WL1460,Spanish for Heritage Speakers I,LANG,LANG,LANG,LANG,5,1
+FY,World Language,WL1470,Spanish for Heritage Speakers II,LANG,LANG,LANG,LANG,5,1
+FY,World Language,WL1480,Spanish for Heritage Speakers III (CP),LANG,LANG,LANG,LANG,5,1
+FY,World Language,WL1510,Spanish I,LANG,LANG,LANG,LANG,5,1
+FY,World Language,WL1520,Spanish II,LANG,LANG,LANG,LANG,5,1
+FY,World Language,WL1530,Spanish II (CP),LANG,LANG,LANG,LANG,5,1
+FY,World Language,WL1620,Honors Spanish II,LANG,LANG,LANG,LANG,5,1
+FY,World Language,WL1630,Honors Spanish III,LANG,LANG,LANG,LANG,5,1
+FY,World Language,WL1640,Honors Spanish IV,LANG,LANG,LANG,LANG,5,1
+FY,World Language,WL1650,Honors Spanish for Heritage Speakers I,LANG,LANG,LANG,LANG,5,1
+FY,World Language,WL1660,Honors Spanish for Heritage Speakers II,LANG,LANG,LANG,LANG,5,1
+FY,World Language,WL1670,Honors Spanish for Heritage Speakers III,LANG,LANG,LANG,LANG,5,1
+FY,World Language,WL1700,AP Spanish Language & Culture,LANG,LANG,LANG,LANG,5,1
+FY,World Language,WL1701,AP Spanish Literature & Culture,LANG,LANG,LANG,LANG,5,1
+FY,World Language,WL2410,Italian I,LANG,LANG,LANG,LANG,5,1
+FY,World Language,WL2420,Italian II,LANG,LANG,LANG,LANG,5,1
+FY,World Language,WL2430,Italian III,LANG,LANG,LANG,LANG,5,1
+FY,World Language,WL2440,Italian IV,LANG,LANG,LANG,LANG,5,1
+FY,World Language,WL2450,Italian V,LANG,LANG,LANG,LANG,5,1
+FY,World Language,WL2620,Honors Italian II,LANG,LANG,LANG,LANG,5,1
+FY,World Language,WL2630,Honors Italian III,LANG,LANG,LANG,LANG,5,1
+FY,World Language,WL2640,Honors Italian IV,LANG,LANG,LANG,LANG,5,1
+FY,World Language,WL2700,AP Italian,LANG,LANG,LANG,LANG,5,1
+FY,World Language,WL3340,French IV,LANG,LANG,LANG,LANG,5,1
+FY,World Language,WL3350,French V,LANG,LANG,LANG,LANG,5,1
+FY,World Language,WL3410,French I,LANG,LANG,LANG,LANG,5,1
+FY,World Language,WL3420,French II,LANG,LANG,LANG,LANG,5,1
+FY,World Language,WL3430,French III,LANG,LANG,LANG,LANG,5,1
+FY,World Language,WL3620,Honors French II,LANG,LANG,LANG,LANG,5,1
+FY,World Language,WL3630,Honors French III,LANG,LANG,LANG,LANG,5,1
+FY,World Language,WL3640,Honors French IV,LANG,LANG,LANG,LANG,5,1
+FY,World Language,WL3700,AP French,LANG,LANG,LANG,LANG,5,1
+FY,World Language,WL4410,Chinese I,LANG,LANG,LANG,LANG,5,1
+FY,World Language,WL4420,Chinese II,LANG,LANG,LANG,LANG,5,1
+FY,World Language,WL4430,Chinese III,LANG,LANG,LANG,LANG,5,1
+FY,World Language,WL4440,Chinese IV,LANG,LANG,LANG,LANG,5,1
+FY,World Language,WL4460,Chinese V,LANG,LANG,LANG,LANG,5,1
+FY,World Language,WL4620,Honors Chinese II,LANG,LANG,LANG,LANG,5,1
+FY,World Language,WL4630,Honors Chinese III,LANG,LANG,LANG,LANG,5,1
+FY,World Language,WL4640,Honors Chinese IV,LANG,LANG,LANG,LANG,5,1
+FY,World Language,WL4650,Honors Chinese V,LANG,LANG,LANG,LANG,5,1
+FY,World Language,WL4700,AP Chinese Language & Culture,LANG,LANG,LANG,LANG,5,1
+FY,World Language,WL5810,American Sign Language 1,ELECT,ELECT,ELECT,ELECT,5,1
+FY,World Language,WL5820,American Sign Language II,ELECT,ELECT,ELECT,ELECT,5,1
+FY,World Language,WL5830,Independent Study: Int'l Lang Studies Ambassador,ELECT,ELECT,ELECT,ELECT,5,1
+FY,World Language,WL8110,Spanish I,LANG,LANG,LANG,LANG,5,1
+FY,World Language,WL8120,Spanish II,LANG,LANG,LANG,LANG,5,1
